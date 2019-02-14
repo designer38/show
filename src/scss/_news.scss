@@ -1,0 +1,38 @@
+.news-style{
+    background-color: $lightcolor;
+    .main-header{
+        font-family: "lato";
+        font-weight: 600;
+        font-size: 20px;
+        color: $redcolor;
+        margin-left:7rem;
+    }
+    hr{
+        margin-left:7rem;
+        width: 10%;
+  border-color: $redcolor;
+ 
+    }
+    .card-title{
+        font-family: "lato";
+            font-weight: "regular";
+            color: $redcolor;
+            font-size: 18px;
+    }
+    .card-text{
+        font-family: "lato";
+        font-weight: "regular";
+        font-size: 16px;
+        
+    }
+    .forward-link{
+        border:none;
+        font-family: "lato";
+        font-weight: "regular";
+        color: $redcolor;
+        font-size: 16px;
+        text-decoration: underline;
+        background-color: transparent;
+        float:right;
+    }
+}

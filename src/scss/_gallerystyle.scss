@@ -1,0 +1,23 @@
+.gallery-style{
+    margin: 0;
+    .main-header{
+        font-family: "lato";
+        font-weight: 600;
+        font-size: 20px;
+        color: $redcolor;
+        
+        margin-left:7rem;
+    }
+    hr{
+        margin-left:7rem;
+        width: 10%;
+  border-color: $redcolor;
+ 
+    }
+   img{
+       max-width: 100%;
+       max-height: 100%;
+   }
+      
+     
+}
